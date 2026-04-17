@@ -1,3 +1,5 @@
+// & "$env:USERPROFILE\.platformio\penv\Scripts\pio.exe" run -t clean
+
 #include <Arduino.h>
 #include <Bluepad32.h>
 
