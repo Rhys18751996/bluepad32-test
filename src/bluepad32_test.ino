@@ -112,7 +112,7 @@ void dumpKeyboard(ControllerPtr ctl) {
             Serial.printf("%s,", keyName);
         }
     }
-    Console.printf("\n");
+    Serial.printf("\n");
 }
 
 void dumpBalanceBoard(ControllerPtr ctl) {
